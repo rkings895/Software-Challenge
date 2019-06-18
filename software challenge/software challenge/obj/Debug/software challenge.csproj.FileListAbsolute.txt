@@ -1,0 +1,10 @@
+C:\Users\ryan\OneDrive - Heart of Worcestershire College\software challenge\v3\software challenge\software challenge\obj\Debug\software challenge.csprojAssemblyReference.cache
+C:\Users\ryan\OneDrive - Heart of Worcestershire College\software challenge\v3\software challenge\software challenge\obj\Debug\software_challenge.Form1.resources
+C:\Users\ryan\OneDrive - Heart of Worcestershire College\software challenge\v3\software challenge\software challenge\obj\Debug\software_challenge.Properties.Resources.resources
+C:\Users\ryan\OneDrive - Heart of Worcestershire College\software challenge\v3\software challenge\software challenge\obj\Debug\software challenge.csproj.GenerateResource.cache
+C:\Users\ryan\OneDrive - Heart of Worcestershire College\software challenge\v3\software challenge\software challenge\obj\Debug\software challenge.csproj.CoreCompileInputs.cache
+C:\Users\ryan\OneDrive - Heart of Worcestershire College\software challenge\v3\software challenge\software challenge\bin\Debug\software challenge.exe.config
+C:\Users\ryan\OneDrive - Heart of Worcestershire College\software challenge\v3\software challenge\software challenge\bin\Debug\software challenge.exe
+C:\Users\ryan\OneDrive - Heart of Worcestershire College\software challenge\v3\software challenge\software challenge\bin\Debug\software challenge.pdb
+C:\Users\ryan\OneDrive - Heart of Worcestershire College\software challenge\v3\software challenge\software challenge\obj\Debug\software challenge.exe
+C:\Users\ryan\OneDrive - Heart of Worcestershire College\software challenge\v3\software challenge\software challenge\obj\Debug\software challenge.pdb
